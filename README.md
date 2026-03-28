@@ -1,4 +1,4 @@
-Esse projeto é a minha resolução à um teste técnico criado pela NUBANK.
+Este projeto apresenta minha solução para um teste técnico do Nubank.
 
 ## Introdução
 Construa uma API REST para gerenciamento de clientes e seus contatos. Cada cliente pode ter um ou mais contatos associados.
